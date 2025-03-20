@@ -185,12 +185,12 @@ Recursos adicionales proporcionados por los maestros para cada curso.
 ##### > Gestión de perfil
 - Puede actualizar y ver su perfil.
 
-##### >Creación y gestión de cursos
+##### > Creación y gestión de cursos
 - Puede crear, modificar y eliminar cursos.
 - Puede definir los detalles de cada curso.
 - Puede ver la lista de estudiantes por cada curso en el que está asignado.
 
-##### >Material extra y pruebas por curso
+##### > Material extra y pruebas por curso
 - Puede ver y agregar material extra al curso.
 - Puede crear pruebas para los cursos y asignar calificaciones.
 - Puede ver los intentos restantes de los estudiantes para cada prueba asignada.
